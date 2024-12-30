@@ -22,7 +22,7 @@ Welcome to **DzEduc**, an educational platform designed to provide learning reso
 
 Check out the live demo of DzEduc here:
 
-[Live Demo](https://your-live-demo-link.com) 
+[Live Demo](https://dz-educ.vercel.app/) 
 
 ## How to Use
 
